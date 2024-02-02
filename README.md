@@ -10,3 +10,7 @@ Support for various rotation angles based on your operating system and hardware 
 Window Minimization:
 Minimize specific windows or all windows on a particular display.
 Configure hotkeys or triggers for automated window management based on your preferences.
+
+
+https://github.com/Alchemy013/Virus/assets/92947939/c3cee3a7-ddf1-40b1-9024-ea944d49abcf
+
