@@ -14,3 +14,7 @@ Configure hotkeys or triggers for automated window management based on your pref
 
 https://github.com/Alchemy013/Virus/assets/92947939/c3cee3a7-ddf1-40b1-9024-ea944d49abcf
 
+
+
+https://github.com/Alchemy013/Virus/assets/92947939/d134b717-428a-45ba-aa12-bd2959c7b599
+
